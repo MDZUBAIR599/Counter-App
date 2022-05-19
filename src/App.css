@@ -1,3 +1,10 @@
+.textred{
+  color: red;
+}
+.textgreen{
+  color: green;
+}
+
 .App {
   text-align: center;
 }
